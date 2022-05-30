@@ -16,7 +16,7 @@
     
 # Introduction 
 
-Saudi arabia news is a news website built using php laravel, the website shows news from all around the world, which focus more on Saudi news. the UI/UX of the website was specifically designed to fit the needs of news enthusiastic individuals,the front-end design was meant to be for the age group between 35-60 and makes it easier to browse the news and to comment on them
+news is a news website built using php laravel, the website shows news from all around the world, which focus more on Saudi news. the UI/UX of the website was specifically designed to fit the needs of news enthusiastic individuals,the front-end design was meant to be for the age group between 35-60 and makes it easier to browse the news and to comment on them
     
 </div>
 
